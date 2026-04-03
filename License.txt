@@ -1,0 +1,24 @@
+Copyright (c) 2026 Javier Bocu. All rights reserved.
+
+LICENCIA DE USO DE SOFTWARE PROPIETARIO
+
+Este software, "Organizador de Fotos y Videos", es propiedad exclusiva de
+Javier Bocu (en adelante, "el Autor").
+
+QUEDA EXPRESAMENTE PROHIBIDO:
+- Copiar, modificar o distribuir el código fuente o el software compilado
+  sin autorización escrita del Autor.
+- Usar este software con fines comerciales sin adquirir una licencia comercial.
+- Realizar ingeniería inversa, descompilar o desensamblar el software.
+- Sublicenciar, vender o transferir el software a terceros sin autorización.
+
+USO PERMITIDO:
+- Los usuarios que adquieran una licencia pueden usar el software para uso
+  personal o profesional interno según los términos de su licencia.
+
+ADQUISICIÓN DE LICENCIA:
+Para adquirir una licencia comercial o de uso, contacte con el Autor.
+
+EXENCIÓN DE GARANTÍA:
+El software se proporciona "tal cual", sin garantía de ningún tipo.
+El Autor no será responsable de ningún daño derivado del uso del software.
