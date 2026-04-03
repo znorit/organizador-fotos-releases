@@ -37,7 +37,7 @@ Aplicación de escritorio para **organizar, clasificar y limpiar** tu colección
 Este software es de **pago**. El precio de la licencia es de **20 €** (pago único).
 
 Para adquirir una licencia contacta con:
-- ✉️ **Email:** [tu-email@ejemplo.com]
+- ✉️ **Email:** [noritojavi@gmail.com]
 - O abre un [Issue](../../issues) en este repositorio
 
 ---
