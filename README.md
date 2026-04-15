@@ -34,7 +34,7 @@ Aplicación de escritorio para **organizar, clasificar y limpiar** tu colección
 
 ## 💰 Licencia y precio
 
-Este software es de **pago**. El precio de la licencia es de **20 €** (pago único).
+Este software es de **pago**. El precio de la licencia es de **19.99 €** (pago único).
 
 Para adquirir una licencia contacta con:
 - ✉️ **Email:** [znorit@hotmail.com]
